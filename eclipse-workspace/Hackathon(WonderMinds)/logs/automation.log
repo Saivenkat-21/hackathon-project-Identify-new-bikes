@@ -1,0 +1,6 @@
+02:46:25.277 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+02:46:27.536 [main] INFO  factory.BaseClass - **Checking for dropdown**
+02:46:27.704 [main] INFO  factory.BaseClass - **Clicking honda option**
+02:46:29.093 [main] INFO  factory.BaseClass - **Checking for read more options**
+02:46:29.307 [main] INFO  factory.BaseClass - **Checking for list of bikes**
+02:46:29.539 [main] INFO  factory.BaseClass - **Printing bike details in console**

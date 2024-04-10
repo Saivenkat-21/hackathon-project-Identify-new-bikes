@@ -1,0 +1,64 @@
+19:17:16.799 [main] INFO  factory.BaseClass - **Validating whether new bikes option displayed**
+19:17:17.185 [main] INFO  factory.BaseClass - **Hover on new bikes option**
+19:17:20.624 [main] INFO  factory.BaseClass - **Checking for new bikes option**
+19:17:20.936 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+19:17:22.577 [main] INFO  factory.BaseClass - **Checking for dropdown**
+19:17:22.833 [main] INFO  factory.BaseClass - **Clicking honda option**
+19:17:24.256 [main] INFO  factory.BaseClass - **Checking for read more options**
+19:17:24.460 [main] INFO  factory.BaseClass - **Checking for list of bikes**
+19:17:24.634 [main] INFO  factory.BaseClass - **Printing bike details in console**
+19:19:18.925 [main] INFO  factory.BaseClass - **Statring the login Test Case**
+19:19:20.878 [main] INFO  factory.BaseClass - **Clicking Login Button**
+19:19:27.317 [main] INFO  factory.BaseClass - **Clicking the google Button**
+19:19:35.747 [main] INFO  factory.BaseClass - **Giving Email Input**
+19:19:36.052 [main] INFO  factory.BaseClass - **Clicking next Button**
+19:19:41.525 [main] INFO  factory.BaseClass - **Capturing the error message**
+19:19:59.458 [main] INFO  factory.BaseClass - **Statring the Upcoming bikes Test Case**
+19:19:59.967 [main] INFO  factory.BaseClass - **Validating whether new bikes option displayed**
+19:20:00.464 [main] INFO  factory.BaseClass - **Hover on new bikes option**
+19:20:03.978 [main] INFO  factory.BaseClass - **Checking for new bikes option**
+19:20:04.311 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+19:20:05.409 [main] INFO  factory.BaseClass - **Checking for dropdown**
+19:20:05.652 [main] INFO  factory.BaseClass - **Clicking honda option**
+19:20:06.733 [main] INFO  factory.BaseClass - **Checking for read more options**
+19:20:06.966 [main] INFO  factory.BaseClass - **Checking for list of bikes**
+19:20:07.117 [main] INFO  factory.BaseClass - **Printing bike details in console**
+11:55:21.458 [main] INFO  factory.BaseClass - **Statring the login Test Case**
+11:55:25.804 [main] INFO  factory.BaseClass - **Clicking Login Button**
+11:55:32.845 [main] INFO  factory.BaseClass - **Clicking the google Button**
+11:55:41.957 [main] INFO  factory.BaseClass - **Giving Email Input**
+11:55:42.583 [main] INFO  factory.BaseClass - **Clicking next Button**
+11:55:48.512 [main] INFO  factory.BaseClass - **Capturing the error message**
+17:37:46.803 [main] INFO  factory.BaseClass - **Statring the login Test Case**
+17:37:52.434 [main] INFO  factory.BaseClass - **Clicking Login Button**
+17:37:59.637 [main] INFO  factory.BaseClass - **Clicking the google Button**
+17:38:08.746 [main] INFO  factory.BaseClass - **Giving Email Input**
+17:38:09.278 [main] INFO  factory.BaseClass - **Clicking next Button**
+17:38:15.269 [main] INFO  factory.BaseClass - **Capturing the error message**
+17:38:44.494 [main] INFO  factory.BaseClass - **Statring the Upcoming bikes Test Case**
+17:38:45.673 [main] INFO  factory.BaseClass - **Validating whether new bikes option displayed**
+17:38:46.761 [main] INFO  factory.BaseClass - **Hover on new bikes option**
+17:38:50.810 [main] INFO  factory.BaseClass - **Checking for new bikes option**
+17:38:51.735 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+17:38:56.270 [main] INFO  factory.BaseClass - **Checking for dropdown**
+17:38:56.729 [main] INFO  factory.BaseClass - **Clicking honda option**
+17:39:01.567 [main] INFO  factory.BaseClass - **Checking for read more options**
+17:39:01.990 [main] INFO  factory.BaseClass - **Checking for list of bikes**
+17:39:02.364 [main] INFO  factory.BaseClass - **Printing bike details in console**
+17:57:13.819 [main] INFO  factory.BaseClass - **Statring the login Test Case**
+17:57:18.080 [main] INFO  factory.BaseClass - **Clicking Login Button**
+17:57:25.108 [main] INFO  factory.BaseClass - **Clicking the google Button**
+17:57:34.110 [main] INFO  factory.BaseClass - **Giving Email Input**
+17:57:34.716 [main] INFO  factory.BaseClass - **Clicking next Button**
+17:57:40.687 [main] INFO  factory.BaseClass - **Capturing the error message**
+17:58:04.451 [main] INFO  factory.BaseClass - **Statring the Upcoming bikes Test Case**
+17:58:05.291 [main] INFO  factory.BaseClass - **Validating whether new bikes option displayed**
+17:58:06.040 [main] INFO  factory.BaseClass - **Hover on new bikes option**
+17:58:09.838 [main] INFO  factory.BaseClass - **Checking for new bikes option**
+17:58:10.515 [main] INFO  factory.BaseClass - **Clicking on upcoming bikes option**
+17:58:12.371 [main] INFO  factory.BaseClass - **Checking for dropdown**
+17:58:12.882 [main] INFO  factory.BaseClass - **Clicking honda option**
+17:58:14.871 [main] INFO  factory.BaseClass - **Checking for read more options**
+17:58:15.300 [main] INFO  factory.BaseClass - **Checking for list of bikes**
+17:58:15.521 [main] INFO  factory.BaseClass - **Printing bike details in console**
+18:46:28.187 [main] INFO  factory.BaseClass - **Statring the login Test Case**
